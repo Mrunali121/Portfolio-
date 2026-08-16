@@ -1,6 +1,6 @@
 # Mrunali Rajgor — Portfolio & CV
 
-Live site: **https://mrunali121.github.io/**
+Live site: **https://Mrunali121.github.io/**
 
 IT Project Manager (M.Sc. IT Management) with 4+ years across technical project
 environments — Agile delivery, sprint planning, stakeholder coordination, and
@@ -16,7 +16,7 @@ documentation, based in Berlin, Germany.
 
 ## Featured project
 
-The site links out to **[FitTrack](https://mrunali121.github.io/fittrack-agile-pm-portfolio/)**,
+The site links out to **[FitTrack](https://Mrunali121.github.io/fittrack-agile-pm-portfolio/)**,
 a full Agile PM case study — project charter, sprint plans, RACI matrix, risk
 register, burndown tracking, and retrospective — built to demonstrate PM
 methodology end to end. Repo: [fittrack-agile-pm-portfolio](https://github.com/YOUR-USERNAME/fittrack-agile-pm-portfolio).
