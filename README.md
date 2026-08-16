@@ -16,7 +16,7 @@ documentation, based in Berlin, Germany.
 
 ## Featured project
 
-The site links out to [**FitTrack**](https://YOUR-USERNAME.github.io/fittrack-agile-pm-portfolio/),
+The site links out to [**FitTrack**](https://YOUR-USERNAME.github.io/-fittrack-agile-pm-portfolio/),
 a full Agile PM case study — project charter, sprint plans, RACI matrix, risk
 register, burndown tracking, and retrospective — built to demonstrate PM
 methodology end to end. Repo: [fittrack-agile-pm-portfolio](https://github.com/YOUR-USERNAME/fittrack-agile-pm-portfolio).
