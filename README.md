@@ -21,12 +21,16 @@ a full Agile PM case study — project charter, sprint plans, RACI matrix, risk
 register, burndown tracking, and retrospective — built to demonstrate PM
 methodology end to end. Repo: [fittrack-agile-pm-portfolio](https://github.com/Mrunali121/-fittrack-agile-pm-portfolio).
 
-## Contact
 
-* Email: mrunalirajgor@gmail.com
+
+* ## 📧 Contact
+
+Feel free to reach out to me via:
+
+* Email: [mrunalirajgor@gmail.com](mailto:mrunalirajgor@gmail.com)
 * LinkedIn: [Mrunali Rajgor](https://www.linkedin.com/in/mrunali-rajgor)
+* GitHub: [github.com/Mrunali121](https://github.com/Mrunali121)
 * Location: Berlin, Germany
-
 \---
 
 *This repository is published via GitHub Pages as my personal portfolio site.*
