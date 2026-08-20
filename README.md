@@ -1,6 +1,6 @@
 # Mrunali Rajgor — Portfolio & CV
 
-Live site: **https://Mrunali121.github.io/**
+Live site: **https://Mrunali121.github.io/Portfolio-**
 
 IT Project Manager (M.Sc. IT Management) with 4+ years across technical project
 environments — Agile delivery, sprint planning, stakeholder coordination, and
