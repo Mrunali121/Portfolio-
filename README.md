@@ -1,6 +1,6 @@
 # Mrunali Rajgor — Portfolio & CV
 
-Live site: **https://mrunali121.github.io/**
+Live site: **https://mrunali121.github.io/Portfolio-/**
 
 AI Project Manager (M.Sc. IT Management) with 7+ years across PMO, project and
 product roles, based in Berlin, Germany. Most recently managed five AI and CGI projects at Ottobock.
